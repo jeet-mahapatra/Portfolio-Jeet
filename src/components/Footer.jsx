@@ -38,7 +38,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a 
-                href="mailto:jeetmahapatrareal.com" 
+                href="mailto:jeetmahapatrareal@gmail.com" 
                 className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
                 aria-label="Email"
               >
