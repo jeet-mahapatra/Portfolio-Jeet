@@ -24,7 +24,7 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: "Tasty Food - A Order Platform",
+      title: "Tasty Food - A Food Order Platform",
       description: "Developed a MERN stack food ordering platform with Stripe payment integration, enabling secure transactions, and added an admin panel for managing orders and users effectively.",
       image: "/projects/tastyfood.png",
       tags: ["React", "Express", "Stripe", "Node.js",""],
